@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pr_20_1.2_Nikolaev_Halle/1.0.0": {
+        "runtime": {
+          "Pr_20_1.2_Nikolaev_Halle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pr_20_1.2_Nikolaev_Halle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
